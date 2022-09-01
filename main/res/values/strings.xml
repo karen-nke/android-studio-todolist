@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">To-Do-List</string>
+    <string name="new_todo">New Task</string>
+
+
+    <string name="show_subtitle">Show Tasks</string>
+    <string name="hide_subtitle">Hide Tasks</string>
+    <string name="subtitle_format">%1$d Tasks</string>
+
+    <string name="todo_title_hint">Enter your task title</string>
+    <string name="todo_title_label">Title</string>
+    <string name="todo_details_label">Details</string>
+    <string name="todo_details_hint">Enter your task details</string>
+    <string name="todo_cat_hint">Enter your task category</string>
+    <string name="todo_cat_label">Category</string>
+    <string name="date_picker_title">Due Date</string>
+    <string name="todo_collab_text">Choose Collaborator</string>
+    <string name ="todo_add_text">Share Task</string>
+    <string name="todo_solved_label">Solved</string>
+
+    <string name="todo_add">%1$s! The due date is on %2$s. %3$s, and %4$s</string> //crime_report
+    <string name="todo_add_solved">The task is completed</string>
+    <string name="todo_add_unsolved">The task is not completed</string>
+    <string name="todo_add_no_collab">There is no collaborator for this task</string>
+    <string name="todo_add_collab">The collaborator for this task is %s.</string>
+    <string name="todo_add_subject">To Do List Task</string> //crime_report_subject
+    <string name="add_task">Share Task via</string> //send_report
+
+</resources>
