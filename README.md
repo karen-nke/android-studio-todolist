@@ -19,11 +19,6 @@ The ToDo List app helps users:
 
 ## Project Requirements
 
-### Application
-
-- Must run on Android Emulator or Physical Android Phone without crashing.
-- Should display all elements without errors.
-
 ### Add Task
 
 - Allow users to create a new task by pressing the "add" button.
@@ -64,25 +59,43 @@ The ToDo List app helps users:
 - The first page when the application is opened.
 - Displays tasks, title, add button, and show tasks button.
 
+  <img width="257" alt="Todolist_Homepage" src="https://github.com/karen-nke/android-studio-todolist/assets/103889430/b164705e-2632-4118-9d40-73e7b9dfa755">
+
 #### After clicking the "Show Tasks"
 
 - Displays the number of tasks under the title of the application.
+  
+  <img width="256" alt="Todolist_Showtask" src="https://github.com/karen-nke/android-studio-todolist/assets/103889430/188f6492-cccb-4dfa-89db-384eacca17cb">
+
 
 #### After clicking one of the tasks
 
 - Shows details of the task, including title, details, category, due date, collaborator.
+  
+  <img width="256" alt="Todolist_TaskDetail" src="https://github.com/karen-nke/android-studio-todolist/assets/103889430/997ce627-63f3-48da-b7b4-90bf9c87db9e">
 
 #### After clicking the "Add" button
 
 - Shows details of the task, including title, details, category, due date, collaborator.
 - Displays a checkbox indicating whether the task is completed or not.
+  
+  <img width="255" alt="Todolist_AddTask" src="https://github.com/karen-nke/android-studio-todolist/assets/103889430/efc6fd4d-f495-4b98-ab5b-c578fb38a084">
 
   - User can key in the details of the task.
+    
+    <img width="257" alt="Todolist_KeyIn" src="https://github.com/karen-nke/android-studio-todolist/assets/103889430/2758ae94-ac47-4a29-994c-4ce471c887c9">
+    
   - Users can choose the due date of the task by clicking the date below the category.
   - A Date dialog will appear prompting the user to choose a date.
+    
+    <img width="256" alt="Todolist_AddDate" src="https://github.com/karen-nke/android-studio-todolist/assets/103889430/ccbc7183-eb53-4229-bf2f-398d876fcdc7">
+
   - The date will reflect back to the task detail page.
   - User can also choose a collaborator by pressing the "Choose Collaborator" Button.
   - User is able to choose a contact from their contact list.
+    
+    <img width="257" alt="Todolist_AddCollaboratorContact" src="https://github.com/karen-nke/android-studio-todolist/assets/103889430/fa934279-c79d-474a-811b-6c9f462b6287">
+
 
 ## How to Run
 
