@@ -107,4 +107,6 @@ The ToDo List app helps users:
 
 This project is licensed under the [MIT License](LICENSE).
 
+_Coursework 2 for CSC2074 Mobile Application Development (April 2022 - July 2022)_
+
 
